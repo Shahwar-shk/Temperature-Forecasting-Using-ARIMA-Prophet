@@ -1,4 +1,4 @@
-# Temperature-Forecasting-Using-ARIMA-Prophet
+# Time Series Forecasting – Temperature Trends (ARIMA & Prophet)
 
 This project showcases time series forecasting using historical temperature data across multiple cities. The goal is to predict future temperature trends using two popular models: ARIMA and Facebook Prophet.
 
